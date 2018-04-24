@@ -2,6 +2,9 @@ package test;
 
 public class FirstSvn {
     public static void main(String[] args) {
-            int a;
+
+    }
+    private int sum(int a,int b){
+        return a+b;
     }
 }
